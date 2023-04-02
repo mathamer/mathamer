@@ -16,7 +16,7 @@
     <a href="https://isocpp.org/" target="_blank"> <img src="https://img.icons8.com/color/48/null/c-plus-plus-logo.png"/> </a>
     <a href="https://www.swift.org/" target="_blank"> <img src="https://img.icons8.com/color/48/null/swift.png"/> </a>
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
-    <a href="https://spring.io/projects/spring-boot" target="_blank"> <img src="https://img.icons8.com/color/48/000000/spring-logo.png"/> </a>
+    <!-- <a href="https://spring.io/projects/spring-boot" target="_blank"> <img src="https://img.icons8.com/color/48/000000/spring-logo.png"/> </a> -->
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a>
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a>
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a>
@@ -29,5 +29,5 @@
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>
     <a href="https://www.gitkraken.com/" target="_blank"> <img src="https://cdn.freebiesupply.com/logos/large/2x/gitkraken-logo-png-transparent.png" width="50"/> </a>
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
-    <a href="https://expressjs.com" target="_blank"> <img src="https://img.icons8.com/color/48/null/golang.png"/> </a>
+    <a href="https://go.dev/" target="_blank"> <img src="https://img.icons8.com/color/48/null/golang.png"/> </a>
 </p>
