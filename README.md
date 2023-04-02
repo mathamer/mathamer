@@ -1,10 +1,14 @@
-## 🙋‍♂️ About Me
+## 🐺 About Me
 
 - 🔭 I'm currently working on **Mobile application for budget and spending tracking**
 
-- 🌱 I'm currently learning **Blockchain apps and Deep learning**
+- 🌱 Also currently learning **Blockchain apps and Deep learning**
 
-- ⚡ Fun fact **I play videogames sometimes**
+- ⚡ Fun fact **I play videogames sometimes** as a stress relief 🎮
+
+- 📱 Can't live without **Jailbreak** 😜
+
+- 🍕 Epic **Pizza** enjoyer 🍕
 
 ## 🚀 Languages and Tools
 
@@ -23,6 +27,7 @@
     <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a>
     <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>
+    <a href="https://www.gitkraken.com/" target="_blank"> <img src="https://cdn.freebiesupply.com/logos/large/2x/gitkraken-logo-png-transparent.png" width="50"/> </a>
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
     <a href="https://expressjs.com" target="_blank"> <img src="https://img.icons8.com/color/48/null/golang.png"/> </a>
 </p>
