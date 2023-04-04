@@ -2,13 +2,11 @@
 
 - 🔭 I'm currently working on **Mobile application for budget and spending tracking**
 
-- 🌱 Also currently learning **Blockchain apps and Deep learning**
+- 🌱 Also currently learning **Blockchain apps, Neural networks and deep learning**
 
-- ⚡ Fun fact **I play videogames sometimes** as a stress relief 🎮
+- ⚡ As a fun fact **I play videogames** as a stress relief 🎮
 
-- 📱 Can't live without **Jailbreak** 😜
-
-- 🍕 Epic **Pizza** enjoyer 🍕
+- 🍕 Huge **Pizza** enjoyer 🍕
 
 ## 🚀 Languages and Tools
 
