@@ -1,8 +1,8 @@
 ## 🐺 About Me
 
-- 🔭 I'm currently working on **Mobile application for budget and spending tracking**
+<!-- - 🔭 I'm currently working on **Mobile application for budget and spending tracking** -->
 
-- 🌱 Also currently learning **Blockchain apps, Neural networks and deep learning**
+<!-- - 🌱 Also currently learning **Blockchain apps, Neural networks and deep learning** -->
 
 - ⚡ As a fun fact **I play videogames** as a stress relief 🎮
 
